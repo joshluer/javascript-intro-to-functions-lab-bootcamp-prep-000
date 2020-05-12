@@ -28,4 +28,3 @@ function sayHiToGrandma(string) {
   if (mixedCase === "I love you, Grandma.") {
     return "I love you, too.";
   }
-}
