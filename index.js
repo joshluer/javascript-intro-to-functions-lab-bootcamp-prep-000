@@ -25,5 +25,5 @@ function sayHiToGrandma(string) {
   uppercase.toUpperCase() === uppercase;
   mixedCase.toLowerCase() === mixedCase;
   mixedCase.toUpperCase() === mixedCase;
-    return "YES INDEED!";
+    return "I can't hear you!", "YES INDEED!", "I love you, too.";
 }
