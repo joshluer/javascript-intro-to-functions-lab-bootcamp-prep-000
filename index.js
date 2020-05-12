@@ -24,6 +24,6 @@ function sayHiToGrandma(string) {
   lowercase.toLowerCase() === lowercase;
   uppercase.toUpperCase() === uppercase;
   mixedCase.toLowerCase() === mixedCase;
-  
+  mixedCase.toUpperCase() === mixedCase;
     return "YES INDEED!";
 }
