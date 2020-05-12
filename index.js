@@ -18,7 +18,7 @@ function sayHiToGrandma(string) {
   var lowercase = "hello!";
   var uppercase = "HELLO!";
   var mixedCase = "Hi there!";
-  return lowercase.toLowerCase() === lowercase;
+  return lowercase.toLowerCase(string) === lowercase;
   // uppercase.toUpperCase() === uppercase;
   //mixedCase.toLowerCase() === mixedCase;
   //mixedCase.toUpperCase() === mixedCase;
